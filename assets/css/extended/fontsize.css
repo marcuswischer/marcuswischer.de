@@ -1,0 +1,42 @@
+@media not speech {
+    body {
+        font-size: 8px;
+    }
+}
+
+@media screen and (min-width: 64em) {
+    body {
+        font-size: 16px;
+    }
+}
+
+.entry-footer,
+.footer,
+{
+    font-size: 1.1em;
+}
+
+.post-meta {
+    font-size: 0.9em;
+}
+
+#menu a,
+.pagination a {
+    font-size: 1.1em;
+}
+
+.logo a {
+    font-size: 1.1em;
+}
+
+.archive-meta,
+.entry-content,
+.page-content,
+.page-footnote {
+    font-size: 1.0em;
+}
+
+.post-title {
+    margin-bottom: 2px;
+    font-size: 30px;
+}
