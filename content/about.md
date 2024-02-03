@@ -1,5 +1,6 @@
 ---
 searchHidden: true
+hidemeta: true
 ---
 
 # Über mich
