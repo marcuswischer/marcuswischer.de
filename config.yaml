@@ -11,7 +11,7 @@ buildExpired: false
 googleAnalytics: UA-123-45
 
 minify:
-  disableXML: true
+  disableXML: false
   minifyOutput: true
 
 params:
@@ -19,8 +19,6 @@ params:
   title: Marcus Wischer
   description: "Marcus Wischer Homepage Blog"
   keywords: [Blog, Marcus Wischer, Organisationsentwicklung, Systemtheorie]
-  # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: dark
   disableThemeToggle: false
@@ -65,17 +63,6 @@ Nicht die Blume.
         - name: Archive
           url: archives
 
-    socialIcons: # optional
-        - name: "<platform>"
-          url: "<link>"
-        - name: "<platform 2>"
-          url: "<link2>"
-
-  # home-info mode
-  homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
-
   socialIcons:
     - name: linkedin
       url: "https://www.linkedin.com/in/marcuswischer/"
@@ -84,13 +71,6 @@ Nicht die Blume.
     - name: email
       url: "mailto:hello@marcuswischer.de"
 
-  analytics:
-    google:
-      SiteVerificationTag: "XYZabc"
-    bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
-      SiteVerificationTag: "XYZabc"
 
   cover:
     hidden: true # hide everywhere but not in structured data
