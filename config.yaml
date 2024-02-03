@@ -59,8 +59,8 @@ Nicht die Blume.
               '
     imageUrl: /images/avatar.jpg
     imageTitle: "<title of image as alt>" # optional
-    imageWidth: 500
-    imageHeight: 600
+    imageWidth: 540
+    imageHeight: 675
     buttons:
         - name: Archive
           url: archives
