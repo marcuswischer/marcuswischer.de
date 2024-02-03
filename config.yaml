@@ -49,7 +49,6 @@ params:
 params:
   profileMode:
     enabled: true
-    title: "--"
     subtitle: '
 Wenn eine Blume nicht blüht, reparierst du die Umgebung, in der sie wächst. 
 
