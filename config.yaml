@@ -49,6 +49,7 @@ params:
 params:
   profileMode:
     enabled: true
+    title:  
     subtitle: '
 Wenn eine Blume nicht blüht, reparierst du die Umgebung, in der sie wächst. 
 
@@ -56,7 +57,7 @@ Wenn eine Blume nicht blüht, reparierst du die Umgebung, in der sie wächst.
 Nicht die Blume.
               '
     imageUrl: /images/avatar.jpg
-    imageTitle: "<title of image as alt>" # optional
+    imageTitle: "Marcus_Wischer"
     imageWidth: 432
     imageHeight: auto
     buttons:
