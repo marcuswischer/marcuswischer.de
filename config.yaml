@@ -71,6 +71,8 @@ Nicht die Blume.
       url: "https://stackoverflow.com"
     - name: email
       url: "mailto:hello@marcuswischer.de"
+    - name: rss
+      url: /index.xml
 
 
   cover:
