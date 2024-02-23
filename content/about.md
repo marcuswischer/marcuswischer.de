@@ -13,16 +13,14 @@ hidemeta: true
 
 ### Interessen
 
-- Organisationssozilogie
+- Organisationssoziologie
 - Systemtheorie (Luhmann)
 - Organisationsentwicklung
 
 ### Job
 
-* '
-  Abteilungsleiter der internen Organisationsberatung @ [ComTS GmbH](https://comts.de) 
-  eine Tochter der [Commerzbank AG](https://commerzbank.de)
-  '
+* Abteilungsleiter der internen Organisationsberatung @ [ComTS GmbH](https://comts.de), eine Tochter der [Commerzbank AG](https://commerzbank.de)
+  
 ### Vita
 
 - Kaufmann für Versicherungen und Finanzen (IHK)
