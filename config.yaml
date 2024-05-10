@@ -95,14 +95,14 @@ Nicht die Blume.
 
 menu:
   main:
-#    - identifier: Artikel
-#      name: Artikel
-#      url: /posts/artikel
-#      weight: 10
-#    - identifier: Literatur
-#      name: Literatur
-#      url: /posts/literatur
-#      weight: 20
+    - identifier: Artikel
+      name: Artikel
+      url: /posts/artikel
+      weight: 10
+    - identifier: Literatur
+      name: Literatur
+      url: /posts/literatur
+      weight: 20
     - identifier: about
       name: Vita & Projekte
       url: /about
