@@ -19,15 +19,15 @@ hidemeta: true
 
 ### Job
 
-* Abteilungsleiter der internen Organisationsberatung @ [ComTS GmbH](https://comts.de), eine Tochter der [Commerzbank AG](https://commerzbank.de)
+* Abteilungsleiter 'Kommunikation & Kultur' @ [ComTS GmbH](https://comts.de), eine Tochter der [Commerzbank AG](https://commerzbank.de)
   
 ### Vita
 
-- Kaufmann für Versicherungen und Finanzen (IHK)
-- Six Sigma Green Belt (Commerzbank AG)
-- Interner Qualitätsauditor ISO 9001:2015 / ISO 19011 (ComTS GmbH)
-- Systemtheoretischer Organisationsentwickler ([intrinsify - Future Leadership](https://intrinsify.de))
 - Beraterausbildung für systemtheoretische Organisationsberatung ([Kurswechsel Masterclass](https://kurswechsel.jetzt))
+- Systemtheoretischer Organisationsentwickler ([intrinsify - Future Leadership](https://intrinsify.de))
+- Interner Qualitätsauditor ISO 9001:2015 / ISO 19011 (ComTS GmbH)
+- Six Sigma Green Belt (Commerzbank AG)
+- Kaufmann für Versicherungen und Finanzen (IHK)
 
 ### Communities
 
